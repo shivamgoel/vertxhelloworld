@@ -58,3 +58,11 @@ $ mvn clean fabric8:deploy -Popenshift
 
 == More Information
 You can learn more about this booster and rest of the Eclipse Vert.x runtime in the link:http://appdev.openshift.io/docs/vertx-runtime.html[Eclipse Vert.x Runtime Guide].
+
+
+Notes :
+
+https://docs.google.com/document/d/1CgXWAo7H15bL-5UgoKb3nXjHJmc-VColrMaM3DP489o/edit#heading=h.5xvjgxlj3gke
+https://docs.google.com/document/d/10uz8x6-AQpgMoo-mXyqms85B5N01EbD3HpmOHffyAI4/edit#heading=h.jakigi7zcs1q
+https://chat.openshift.io/developers/channels/town-square
+https://openshift.io/
